@@ -347,14 +347,21 @@ a {
   }
   
   ol {
+    
     list-style-type: none;
-    margin-left: 0;
+    margin-left: 40px;
+    margin-right: 10px;
     padding-left: 20px;
-    text-align:left; /* Reset text alignment for list items */
+    text-align:left; 
+    /* Reset text alignment for list items */
   }
   
   ol li {
     color: #070707;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   
   h1 {
