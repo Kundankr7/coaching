@@ -349,8 +349,8 @@ a {
   ol {
     
     list-style-type: none;
-    margin-left: 40px;
-    margin-right: 10px;
+    margin-left: 0;
+    
     padding-left: 20px;
     text-align:left; 
     /* Reset text alignment for list items */
